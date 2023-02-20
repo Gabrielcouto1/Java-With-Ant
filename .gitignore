@@ -1,0 +1,49 @@
+**/.vscode
+**/*.code-workspace
+**/*.gitattributes
+**/*.exe
+**/*.out
+**/*.o
+**/*.jpg
+**/*.zip
+**/*.pdf
+main
+/Matérias/AOC1/Aulas/Aula 2/ContasClientes/JavaApplication4/nbproject/private/
+/Matérias/AOC1/Aulas/Aula 2/Exercicios1-2/build/
+/Matérias/AOC1/Aulas/Aula 2/Exercicios1-2/dist/
+/Matérias/AOC1/Aulas/Aula 2/Exercicios1-2/nbproject/private/
+/Matérias/AOC1/Listas/Lista 1/Exercicio4/build/
+/Matérias/AOC1/Listas/Lista 1/Exercicio4/dist/
+/Matérias/AOC1/Aulas/Aula 3/Construtores/nbproject/private/
+/Matérias/AOC1/Aulas/Aula 3/Maquina de passagens/nbproject/private/
+/Matérias/AOC1/Aulas/Aula 3/Maquina de passagens/build/
+/Matérias/AOC1/Aulas/Aula 3/Maquina de passagens/dist/
+/Matérias/AOC1/Aulas/Aula 3/Exercicio2/nbproject/private/
+/Matérias/AOC1/Aulas/Aula 3/Exercicio2/build/
+/Matérias/AOC1/Aulas/Aula 3/Exercicio2/dist/
+/Matérias/AOC1/Aulas/Aula 3/Exercicio3/nbproject/private/
+/Matérias/AOC1/Aulas/Aula 3/Exercicio3/build/
+/Matérias/AOC1/Aulas/Aula 3/AmbienteEspacial/nbproject/private/
+/Matérias/AOC1/Aulas/Aula 3/AmbienteEspacial/build/
+/Matérias/AOC1/Aulas/Aula 3/AmbienteEspacial/dist/
+/Matérias/AOC1/Aulas/Aula 3/Relogio/nbproject/private/
+/Matérias/AOC1/Aulas/Aula 3/Relogio/dist/
+/Matérias/AOC1/Aulas/Aula 3/Relogio/build/
+/Matérias/POO1/Listas/Loja/nbproject/private/
+/Matérias/POO1/Listas/JavaApplication17/nbproject/private/
+/Matérias/POO1/Listas/JavaApplication18/nbproject/private/
+/Matérias/POO1/Listas/JavaApplication19/nbproject/private/
+/Matérias/POO1/Listas/JavaApplication20/nbproject/private/
+/Matérias/POO1/Listas/Lista 3/Loja/nbproject/private/
+/Matérias/POO1/Listas/Lista 3/Loja/build/
+/Matérias/POO1/Listas/Lista 3/Loja/dist/
+/Matérias/POO1/Provas/Prova01/nbproject/private/
+/Matérias/POO1/Provas/Prova01/build/
+/Matérias/POO1/Provas/Prova01/dist/
+/Matérias/POO1/Provas/JavaApplication22/nbproject/private/
+/Matérias/POO1/Listas/Lista 5/Empresa/nbproject/private/
+/Matérias/POO1/Listas/Lista 5/Empresa/build/
+/Matérias/POO1/Listas/Lista 5/Empresa/dist/
+/Matérias/POO1/Listas/Lista 5/Main/nbproject/private/
+/Matérias/POO1/Listas/Lista 5/Main/build/
+/Matérias/POO1/Listas/Lista 5/SpaceInvadersLike/nbproject/private/
