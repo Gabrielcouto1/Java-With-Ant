@@ -7,5 +7,7 @@ To run the program in linux, simply type './ant-java'. To run the program in win
 
 After running and entering the name of the project without blank spaces, a folder will be created with all the directories necessary to run java with ant.
 
+
 Example of how the project directory is built:
-<img src="https://imgur.com/a/YEz1Fzq" alt=" " title=" ">
+
+<img src="https://i.imgur.com/siZ3JgN.jpg" alt=" " title=" ">
