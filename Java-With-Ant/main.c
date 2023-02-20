@@ -7,7 +7,7 @@
 int main(){
     char str[255];
     system(clean);
-    printf("Insira o nome do projeto: ");
+    printf("Insert the project name(no blank spaces): ");
     scanf("%s",str);
     getchar();
 
