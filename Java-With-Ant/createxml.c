@@ -90,7 +90,7 @@ void createProjectDirectories(char *projectname){
     strcat(str, getPackageName(projectname));
     strcat(str," src\0");
     system(str);
-
+    
     strcpy(str, "mkdir ");
     strcat(str, projname);
     system(str);
@@ -109,6 +109,7 @@ void createProjectDirectories(char *projectname){
     strcat(str,"build.xml ");
     strcat(str, projname);
     system(str);
+
 }
 
 char* createMain(char *projectname){
